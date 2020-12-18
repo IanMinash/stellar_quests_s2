@@ -132,6 +132,7 @@ github.com/spf13/pflag v0.0.0-20161005214240-4bd69631f475/go.mod h1:DYY7MBk1bdzu
 github.com/spf13/viper v0.0.0-20150621231900-db7ff930a189/go.mod h1:A8kyI5cUJhb8N+3pkfONlcEcZbueH6nhAm0Fq7SrnBM=
 github.com/stellar/go v0.0.0-20201213070323-656ec0a6e83a h1:7trWvACE3E0uIwvm0jsafqJR+XriXeKvaWtzzwTvpeE=
 github.com/stellar/go v0.0.0-20201213070323-656ec0a6e83a/go.mod h1:u39t8VPN26U8w6UaGoVqWN4e9rdTVNCji/Q0HlZqIbY=
+github.com/stellar/go v0.0.0-20201217225215-bb1a017ef327 h1:k0aXRJLOYUhiclG4xdDY46tnwFq7FdaaWs/gk4PZ2F8=
 github.com/stellar/go-xdr v0.0.0-20201028102745-f80a23dac78a h1:GnM0ArRp7EDbaTiFhSp/CLgyk2cacXxdUklqJmdJs1Q=
 github.com/stellar/go-xdr v0.0.0-20201028102745-f80a23dac78a/go.mod h1:yoxyU/M8nl9LKeWIoBrbDPQ7Cy+4jxRcWcOayZ4BMps=
 github.com/stellar/throttled v2.2.3-0.20190823235211-89d75816f59d+incompatible/go.mod h1:7CJ23pXirXBJq45DqvO6clzTEGM/l1SfKrgrzLry8b4=
