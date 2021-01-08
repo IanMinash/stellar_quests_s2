@@ -134,6 +134,7 @@ github.com/stellar/go v0.0.0-20201213070323-656ec0a6e83a h1:7trWvACE3E0uIwvm0jsa
 github.com/stellar/go v0.0.0-20201213070323-656ec0a6e83a/go.mod h1:u39t8VPN26U8w6UaGoVqWN4e9rdTVNCji/Q0HlZqIbY=
 github.com/stellar/go v0.0.0-20201217225215-bb1a017ef327 h1:k0aXRJLOYUhiclG4xdDY46tnwFq7FdaaWs/gk4PZ2F8=
 github.com/stellar/go v0.0.0-20201218182351-013bf861cb0f h1:LBjNrGyV7yI7uWFphGtOOhEDDW6WmkiBAqiaRxoQkgM=
+github.com/stellar/go v0.0.0-20210107192825-6e6d5e4d59b1 h1:MDhWba7BM3CXSle4CySAP/5qAG3x2j/KqTXpDbSsVyM=
 github.com/stellar/go-xdr v0.0.0-20201028102745-f80a23dac78a h1:GnM0ArRp7EDbaTiFhSp/CLgyk2cacXxdUklqJmdJs1Q=
 github.com/stellar/go-xdr v0.0.0-20201028102745-f80a23dac78a/go.mod h1:yoxyU/M8nl9LKeWIoBrbDPQ7Cy+4jxRcWcOayZ4BMps=
 github.com/stellar/throttled v2.2.3-0.20190823235211-89d75816f59d+incompatible/go.mod h1:7CJ23pXirXBJq45DqvO6clzTEGM/l1SfKrgrzLry8b4=
