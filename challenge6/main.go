@@ -65,7 +65,6 @@ func main() {
 	)
 
 	tx, err = tx.Sign(network.TestNetworkPassphrase, kp.(*keypair.Full), createdKp)
-
 	if err != nil {
 		log.Fatalln(err)
 	}
@@ -74,7 +73,9 @@ func main() {
 	if err != nil {
 		log.Fatalln(err)
 	}
+
 	log.Println(txe)
+
 	resp, err := client.SubmitTransactionXDR(txe)
 	if err != nil {
 		log.Fatalln(err)

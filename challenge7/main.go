@@ -65,7 +65,6 @@ func main() {
 	)
 
 	tx, err = tx.Sign(network.TestNetworkPassphrase, kp.(*keypair.Full))
-
 	if err != nil {
 		log.Fatalln(err)
 	}

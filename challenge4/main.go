@@ -45,7 +45,7 @@ func main() {
 		log.Fatalln(err)
 	}
 
-	// Create account transaction.
+	// Create claimable balance transaction.
 	tx, err := txnbuild.NewTransaction(
 		txnbuild.TransactionParams{
 			SourceAccount:        &sourceAccount,
