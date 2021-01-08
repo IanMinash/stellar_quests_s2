@@ -19,7 +19,7 @@ func main() {
 		log.Fatalln("An error occured while trying to read from .env")
 	}
 
-	// Get private key of receiving account
+	// Get private key of your account
 	signKey, signKeyPresent := os.LookupEnv("SIGN_KEY")
 	if !signKeyPresent {
 		log.Fatalln("SIGN_KEY is not defined in the environment file. Please define it and try again")
@@ -38,7 +38,7 @@ func main() {
 		log.Fatalln(err)
 	}
 
-	// Create a trustline from the account to the issuer account.
+	// Create account transaction.
 	tx, err := txnbuild.NewTransaction(
 		txnbuild.TransactionParams{
 			SourceAccount:        &sourceAccount,
